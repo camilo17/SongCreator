@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbe3ea61-03a2-48f1-bfa1-41a2026ec646" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Components/App.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Components/LyricCreate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Components/LyricList.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Components/SongCreate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Components/SongDetail.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Components/SongList.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/queries/fetchSong.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/queries/fetchSongs.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/index.js" afterPath="$PROJECT_DIR$/client/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/style/style.css" afterPath="$PROJECT_DIR$/client/style/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/server.js" afterPath="$PROJECT_DIR$/server/server.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -66,12 +57,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="-275">
               <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -108,6 +112,7 @@
         <option value="$PROJECT_DIR$/client/Components/LyricList.js" />
         <option value="$PROJECT_DIR$/client/Components/LyricCreate.js" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -921,12 +926,12 @@
       <workItem from="1494171536975" duration="5457000" />
       <workItem from="1494250381513" duration="2423000" />
       <workItem from="1494283399532" duration="5863000" />
-      <workItem from="1494336443919" duration="3336000" />
+      <workItem from="1494336443919" duration="3507000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34227000" />
+    <option name="totallyTimeSpent" value="34398000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="952" height="1056" extended-state="4" />
@@ -1344,9 +1349,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="-275">
           <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
